@@ -1,5 +1,5 @@
 // Sube la versión cada vez que cambies index.html para que el móvil coja la nueva.
-const CACHE = 'gymlog-v1';
+const CACHE = 'gymlog-v2';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
